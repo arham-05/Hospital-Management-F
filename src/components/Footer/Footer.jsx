@@ -118,21 +118,21 @@ const Footer = () => {
                 <div className={footerStyles.contactIconWrapper}>
                   <Phone className={footerStyles.contactIcon} />
                 </div>
-                <span className={footerStyles.contactText}>+91 8299431275</span>
+                <span className={footerStyles.contactText}>+91 9022812345</span>
               </div>
               <div className={footerStyles.contactItem}>
                 <div className={footerStyles.contactIconWrapper}>
                   <Mail className={footerStyles.contactIcon} />
                 </div>
                 <span className={footerStyles.contactText}>
-                  hexagonsservices@gmail.com
+                  ansari@gmail.com
                 </span>
               </div>
               <div className={footerStyles.contactItem}>
                 <div className={footerStyles.contactIconWrapper}>
                   <MapPin className={footerStyles.contactIcon} />
                 </div>
-                <span className={footerStyles.contactText}>Lucknow, India</span>
+                <span className={footerStyles.contactText}> Bhiwandi, Maharastra</span>
               </div>
             </div>
           </div>
@@ -242,7 +242,7 @@ const Footer = () => {
             <span>© {currentYear} MediCare Healthcare.</span>
           </div>
 
-          <div className={footerStyles.designerText}>
+          {/* <div className={footerStyles.designerText}>
             <span>Designed by</span>
             <a
               href="https://hexagondigitalservices.com/"
@@ -252,7 +252,7 @@ const Footer = () => {
             >
               Hexagon Digital Services
             </a>
-          </div>
+          </div> */}
         </div>
       </div>
 

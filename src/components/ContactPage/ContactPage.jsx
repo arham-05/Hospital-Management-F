@@ -314,7 +314,7 @@ export default function ContactPage() {
               <Phone size={16} /> 9022812345
             </p>
             <p className={contactPageStyles.infoItem}>
-              <Mail size={16} /> info@yourclinic.com
+              <Mail size={16} /> info@MediCare.com
             </p>
           </div>
 
