@@ -308,23 +308,24 @@ export default function ContactPage() {
               Visit Our Clinic
             </h3>
             <p className={contactPageStyles.infoText}>
-              Gomtinagar, Lucknow, Uttar Pradesh
+              VetalPada, Bhiwandi, Maharastra
             </p>
             <p className={contactPageStyles.infoItem}>
-              <Phone size={16} /> 8299431275
+              <Phone size={16} /> 9022812345
             </p>
             <p className={contactPageStyles.infoItem}>
               <Mail size={16} /> info@yourclinic.com
             </p>
           </div>
 
-          <iframe
+{/* Google Map Are Comment */}
+          {/* <iframe
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3559.460792853461!2d80.98709187529213!3d26.870382662861033!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399be2ae3cea2421%3A0x6c0de12e8a77818f!2sGomti%20Nagar%2C%20Lucknow%2C%20Uttar%20Pradesh!5e0!3m2!1sen!2sin!4v1731769000000!5m2!1sen!2sin"
             className={contactPageStyles.map}
             title="Gomti Nagar Map"
             loading="lazy"
             allowFullScreen
-          ></iframe>
+          ></iframe> */}
 
           <div className={contactPageStyles.hoursContainer}>
             <h4 className={contactPageStyles.hoursTitle}>
